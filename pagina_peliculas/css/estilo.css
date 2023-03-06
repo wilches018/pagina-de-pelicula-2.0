@@ -4,16 +4,18 @@
 		box-sizing: border-box;
 		font-family: 'Montserrat Alternates', sans-serif;
 	}
+
 	.imagen {
 		max-width: 100%;
 		height: auto;
-	  }
-	  .imagen img {
+	}
+
+	.imagen img {
 		max-width: 100%;
 		height: auto;
-	  }
+	}
 
-	
+
 	.capa {
 		position: fixed;
 		width: 100%;
@@ -37,6 +39,8 @@
 		width: 90%;
 		max-width: 1200px;
 		margin: auto;
+		
+		
 	}
 
 	.container .btn-menu,
@@ -144,4 +148,4 @@
 		cursor: pointer;
 		font-size: 18px;
 	}
-	
+
